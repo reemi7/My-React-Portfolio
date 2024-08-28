@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImage from "../assets/img/my image.png";
+import myImage from "../assets/img/my image-skills.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
 
